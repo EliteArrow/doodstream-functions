@@ -19,10 +19,11 @@ A program to retrive data from doodstream.com(a video streaming website) with AP
 10. Remote upload actions
 11. Create folder
 12. Rename folder
-13. List files
-14. File status
-15. File info
-16. File image
-17. File rename
-18. File search
-19. Remote splash image
+13. List folders
+14. List files
+15. File status
+16. File info
+17. File image
+18. File rename
+19. File search
+20. Remote splash image
