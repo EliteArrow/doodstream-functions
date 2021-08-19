@@ -1,5 +1,5 @@
 # doodstream-functions
-A program to retrive data from doodstream.com(a video streaming website) with API calls
+A program to retrieve data from doodstream.com(a video streaming website) with API calls
 
 <b>Documentation</b>
 1. Generate API key from https://doodstream.com/settings
